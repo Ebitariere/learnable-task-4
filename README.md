@@ -7,11 +7,10 @@ This repository contains the implementation of amn ordering system for the custo
 
 ### Classes and their functionalities
 
-### 1. **BurgerDelivery**
-- Attributes :
- - 
 
 
+
+## UML Diagram
  ```mermaid
     classDiagram
     class burgerDelivery {

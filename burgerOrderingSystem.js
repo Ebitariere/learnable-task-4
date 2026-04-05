@@ -30,6 +30,7 @@ class customers{
 
     order(){
         console.log(`Hello,${this.name} your order is being processed...`)
+        burgerDelivery.orderSlots();
     }
 
     orderComplete(){
